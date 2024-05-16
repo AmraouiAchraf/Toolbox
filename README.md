@@ -3,7 +3,7 @@
 
 # Avant Installation
 
-Assurer d'avoir python3 en tapant cette commande :
+Assurez-vous d'avoir python3 en tapant cette commande :
 python3 --version
 
 Commande a saisir pour installer python3 :
