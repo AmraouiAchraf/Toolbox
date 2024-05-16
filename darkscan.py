@@ -2,11 +2,8 @@
 # -*- coding: utf-8 -*-
 #===============================
 #  By : 1ucif3r
-#  Github.com/1ucif3r
-#  instagram.com/0x1ucif3r
-#  twitter.com/0x1ucif3r
+#  Github.com/AmraouiAchraf/Toolbox
 #
-#  www.dark4rmy.com
 #================================
 import sys
 import os
