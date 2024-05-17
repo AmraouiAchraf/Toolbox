@@ -22,7 +22,7 @@ sudo apt installer python3 -y
 
 # Installation
 
-git clone https://github.com/D4RK-4RMY/Darkscan.git
+git clone https://github.com/AmraouiAchraf/Toolbox.git
 
 
 cd (se diriger vers le répertoire que vous venez d'installer)
