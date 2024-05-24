@@ -28,5 +28,5 @@ git clone https://github.com/AmraouiAchraf/Toolbox.git
 cd (se diriger vers le répertoire que vous venez d'installer)
 
 
-python3 Toolbox.py
+Executer la toolbox avec cette commande : python3 Toolbox.py
 
